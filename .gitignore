@@ -23,3 +23,6 @@ __pycache__/
 # 操作系统
 .DS_Store
 Thumbs.db
+
+# Trae AI 配置（个人偏好，不提交）
+.trae/
